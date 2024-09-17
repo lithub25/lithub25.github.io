@@ -1,0 +1,16 @@
+body {background-color:floralwhite; margin: 0%; text-align: center;}
+   
+      
+
+body> h1{background-color: white;} 
+h1 {font-family: Trocchi; background-color:black,}
+h2{font-family:Trocchi; text-align: center;}
+h3{text-align: center;}h4{text-align: center; background-color: white;}
+blockquote{text-align: center;}
+
+
+p{columns: 2; column-gap: 20px;}
+
+
+body> main {font-family: "Special Elite"; text-align: justify;}
+footer{background-color:white}
